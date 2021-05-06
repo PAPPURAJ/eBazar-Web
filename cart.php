@@ -202,7 +202,7 @@
                                        
                                        <td>
                                            
-                                           <img class="img-responsive" src="admin_area/product_images/Product-3a.jpg" alt="Product 3a">
+                                           <img class="img-responsive" src="admin_area/product_images/ssd.png" alt="Product 3a">
                                            
                                        </td>
                                        
@@ -252,7 +252,7 @@
                                        
                                        <td>
                                            
-                                           <img class="img-responsive" src="admin_area/product_images/product-1.jpg" alt="Product 3a">
+                                           <img class="img-responsive" src="admin_area/product_images/mobile.png" alt="Product 3a">
                                            
                                        </td>
                                        
@@ -302,7 +302,7 @@
                                        
                                        <td>
                                            
-                                           <img class="img-responsive" src="admin_area/product_images/Product-6a.jpg" alt="Product 3a">
+                                           <img class="img-responsive" src="admin_area/product_images/bag.png" alt="Product 3a">
                                            
                                        </td>
                                        
@@ -405,13 +405,13 @@
                    <div class="col-md-3 col-sm-6 center-responsive"><!-- col-md-3 col-sm-6 center-responsive Begin -->
                        <div class="product same-height"><!-- product same-height Begin -->
                            <a href="details.php">
-                               <img class="img-responsive" src="admin_area/product_images/Product-6a.jpg" alt="Product 6">
+                               <img class="img-responsive" src="admin_area/product_images/mouse.jpg" alt="Product 6">
                             </a>
                             
                             <div class="text"><!-- text Begin -->
-                                <h3><a href="details.php">Keyboard</a></h3>
+                                <h3><a href="details.php">Mouse</a></h3>
                                 
-                                <p class="price">$40</p>
+                                <p class="price">$400</p>
                                 
                             </div><!-- text Finish -->
                             
@@ -421,11 +421,11 @@
                    <div class="col-md-3 col-sm-6 center-responsive"><!-- col-md-3 col-sm-6 center-responsive Begin -->
                        <div class="product same-height"><!-- product same-height Begin -->
                            <a href="details.php">
-                               <img class="img-responsive" src="admin_area/product_images/Product-5a.jpg" alt="Product 6">
+                               <img class="img-responsive" src="admin_area/product_images/usage.png" alt="Product 6">
                             </a>
                             
                             <div class="text"><!-- text Begin -->
-                                <h3><a href="details.php">Arduino</a></h3>
+                                <h3><a href="details.php">Used Laptop</a></h3>
                                 
                                 <p class="price">$45</p>
                                 
@@ -437,11 +437,11 @@
                    <div class="col-md-3 col-sm-6 center-responsive"><!-- col-md-3 col-sm-6 center-responsive Begin -->
                        <div class="product same-height"><!-- product same-height Begin -->
                            <a href="details.php">
-                               <img class="img-responsive" src="admin_area/product_images/Product-4a.jpg" alt="Product 6">
+                               <img class="img-responsive" src="admin_area/product_images/mobile.png" alt="Product 6">
                             </a>
                             
                             <div class="text"><!-- text Begin -->
-                                <h3><a href="details.php">Laptop</a></h3>
+                                <h3><a href="details.php">Mobile</a></h3>
                                 
                                 <p class="price">$50</p>
                                 
@@ -454,69 +454,9 @@
                
            </div><!-- col-md-9 Finish -->
            
-           <div class="col-md-3"><!-- col-md-3 Begin -->
-               
-               <div id="order-summary" class="box"><!-- box Begin -->
-                   
-                   <div class="box-header"><!-- box-header Begin -->
-                       
-                       <h3>Order Summary</h3>
-                       
-                   </div><!-- box-header Finish -->
-                   
-                   <p class="text-muted"><!-- text-muted Begin -->
-                       
-                       Shipping and additional costs are calculated based on value you have entered
-                       
-                   </p><!-- text-muted Finish -->
-                   
-                   <div class="table-responsive"><!-- table-responsive Begin -->
-                       
-                       <table class="table"><!-- table Begin -->
-                           
-                           <tbody><!-- tbody Begin -->
-                               
-                               <tr><!-- tr Begin -->
-                                   
-                                   <td> Order Sub-Total </td>
-                                   <th> $250 </th>
-                                   
-                               </tr><!-- tr Finish -->
-                               
-                               <tr><!-- tr Begin -->
-                                   
-                                   <td> Shipping and Handling </td>
-                                   <td> $0 </td>
-                                   
-                               </tr><!-- tr Finish -->
-                               
-                               <tr><!-- tr Begin -->
-                                   
-                                   <td> Tax </td>
-                                   <th> $0 </th>
-                                   
-                               </tr><!-- tr Finish -->
-                               
-                               <tr class="total"><!-- tr Begin -->
-                                   
-                                   <td> Total </td>
-                                   <th> $250 </th>
-                                   
-                               </tr><!-- tr Finish -->
-                               
-                           </tbody><!-- tbody Finish -->
-                           
-                       </table><!-- table Finish -->
-                       
-                   </div><!-- table-responsive Finish -->
-                   
-               </div><!-- box Finish -->
-               
-           </div><!-- col-md-3 Finish -->
-           
        </div><!-- container Finish -->
    </div><!-- #content Finish -->
-   
+  
    <?php 
     
     include("includes/footer.php");

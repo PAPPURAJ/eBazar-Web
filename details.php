@@ -191,13 +191,14 @@
                                
                                <div class="carousel-inner">
                                    <div class="item active">
-                                       <center><img class="img-responsive" src="admin_area/product_images/Product-3a.jpg" alt="Product 3-a"></center>
+                                       <center><img class="img-responsive" src="admin_area/slides_images/slide1.jpg" alt="Product 3-a"></center>
                                    </div>
                                    <div class="item">
-                                       <center><img class="img-responsive" src="admin_area/product_images/Product-3b.jpg" alt="Product 3-b"></center>
+                                       <center><img class="img-responsive" src="admin_area/slides_images/slide-2.png" alt="Product 3-b"></center>
                                    </div>
                                    <div class="item">
-                                       <center><img class="img-responsive" src="admin_area/product_images/Product-3c.jpg" alt="Product 3-c"></center>
+                                       <center><img class="img-responsive" src="admin_area/slides_images/slide-3.png" alt="Product 3-c"></center>
+                                      
                                    </div>
                                </div>
                                
@@ -265,19 +266,19 @@
                            
                            <div class="col-xs-4"><!-- col-xs-4 Begin -->
                                <a href="#" class="thumb"><!-- thumb Begin -->
-                                   <img src="admin_area/product_images/product-1.jpg" alt="product 1" class="img-responsive">
+                                   <img src="admin_area/product_images/arduino.jpg" alt="product 1" class="img-responsive">
                                </a><!-- thumb Finish -->
                            </div><!-- col-xs-4 Finish -->
                            
                            <div class="col-xs-4"><!-- col-xs-4 Begin -->
                                <a href="#" class="thumb"><!-- thumb Begin -->
-                                   <img src="admin_area/product_images/product-2.jpg" alt="product 2" class="img-responsive">
+                                   <img src="admin_area/product_images/bag.png" alt="product 2" class="img-responsive">
                                </a><!-- thumb Finish -->
                            </div><!-- col-xs-4 Finish -->
                            
                            <div class="col-xs-4"><!-- col-xs-4 Begin -->
                                <a href="#" class="thumb"><!-- thumb Begin -->
-                                   <img src="admin_area/product_images/Product-4a.jpg" alt="product 4" class="img-responsive">
+                                   <img src="admin_area/product_images/mobile.png" alt="product 4" class="img-responsive">
                                </a><!-- thumb Finish -->
                            </div><!-- col-xs-4 Finish -->
                            
@@ -320,11 +321,11 @@
                    <div class="col-md-3 col-sm-6 center-responsive"><!-- col-md-3 col-sm-6 center-responsive Begin -->
                        <div class="product same-height"><!-- product same-height Begin -->
                            <a href="details.php">
-                               <img class="img-responsive" src="admin_area/product_images/Product-6a.jpg" alt="Product 6">
+                               <img class="img-responsive" src="admin_area/product_images/mouse.jpg" alt="Product 6">
                             </a>
                             
                             <div class="text"><!-- text Begin -->
-                                <h3><a href="details.php">Laptop</a></h3>
+                                <h3><a href="details.php">Mouse</a></h3>
                                 
                                 <p class="price">$400</p>
                                 
@@ -336,11 +337,11 @@
                    <div class="col-md-3 col-sm-6 center-responsive"><!-- col-md-3 col-sm-6 center-responsive Begin -->
                        <div class="product same-height"><!-- product same-height Begin -->
                            <a href="details.php">
-                               <img class="img-responsive" src="admin_area/product_images/Product-5a.jpg" alt="Product 6">
+                               <img class="img-responsive" src="admin_area/product_images/usage.png" alt="Product 6">
                             </a>
                             
                             <div class="text"><!-- text Begin -->
-                                <h3><a href="details.php">Mobile Phone</a></h3>
+                                <h3><a href="details.php">Used Laptop</a></h3>
                                 
                                 <p class="price">$45</p>
                                 
@@ -352,11 +353,11 @@
                    <div class="col-md-3 col-sm-6 center-responsive"><!-- col-md-3 col-sm-6 center-responsive Begin -->
                        <div class="product same-height"><!-- product same-height Begin -->
                            <a href="details.php">
-                               <img class="img-responsive" src="admin_area/product_images/Product-4a.jpg" alt="Product 6">
+                               <img class="img-responsive" src="admin_area/product_images/mobile.png" alt="Product 6">
                             </a>
                             
                             <div class="text"><!-- text Begin -->
-                                <h3><a href="details.php">Bag</a></h3>
+                                <h3><a href="details.php">Mobile</a></h3>
                                 
                                 <p class="price">$50</p>
                                 
